@@ -1,0 +1,39 @@
+body {
+    background: #AB0909;
+    display: flexbox;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline overline;
+}
+
+.container {
+    color: #AB0909;
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    border-radius: 40px;
+}
+
+select {
+    border: rgb(85, 151, 226) outset;
+    cursor: pointer;
+}
+
+button {
+    background: #AB0909;
+    color: white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: rgb(85, 151, 226) outset;
+    border-width: 5px;
+}
